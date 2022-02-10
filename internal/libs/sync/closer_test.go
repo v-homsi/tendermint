@@ -5,6 +5,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/require"
+
 	tmsync "github.com/tendermint/tendermint/internal/libs/sync"
 )
 
